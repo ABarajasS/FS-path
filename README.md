@@ -1,6 +1,4 @@
 # FS-path
 
 Second line
-  Third line
-
-  New line
+Third line
